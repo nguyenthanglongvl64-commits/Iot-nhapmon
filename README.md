@@ -1,2 +1,2 @@
 # Iot-nhapmon
-Cá nhân 
+họ tên: Nguyễn Thăng Long
